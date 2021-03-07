@@ -1,5 +1,5 @@
 The modified model is based on the original MelGAN model, see our report for more details.
-https://openreview.net/forum?id=HkxQpBrlIS&noteId=rylhgAn_9S
+https://openreview.net/pdf?id=9jTbNbBNw0
 
 Based on our experiments, we modify the model by changing the pooling and padding fuction, 
 decreasing the number of discriminators to 1 and adding one extra residual block to the 
