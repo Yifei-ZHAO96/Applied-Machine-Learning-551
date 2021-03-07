@@ -1,4 +1,4 @@
-# Applied-Machine-Learning-551 2019 Fall
+# Applied-Machine-Learning-COMP551 2019 Fall
 Implementation of 4 mini-projects using different machine learning tricks including LR, LDA, Naive bayes, SGD, VGG, LeNet, AlexNet and deep neural work MelGAN
 
 ## Mini-project 1: Binary Classification for Wine Quality and Breast Cancer using Logistic Regression(LR) and Linear Discriminant Analysis(LDA)
