@@ -1,4 +1,4 @@
-The modified model is based on the original MelGAN model, see the report for more details.
+The modified model is based on the original MelGAN model, see our report for more details.
 https://openreview.net/forum?id=HkxQpBrlIS&noteId=rylhgAn_9S
 
 Based on our experiments, we modify the model by changing the pooling and padding fuction, 
